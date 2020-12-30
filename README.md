@@ -7,17 +7,25 @@ Please feel free to [pull requests](https://github.com/penghouwen/TrackingHub/pu
 ## Table of Contents
 
 - [Awesome Papers](#awesome-papers)
+  - [Single Object Tracking]
+    - [2021 Venues](#2021)
+    - [2020 Venues](#2020)
+    - [2019 Venues](#2019)
+    - [2018 Venues](#2018)
+    - [Previous Venues](#201x-2018)
+    - [arXiv](#arxiv)
+ 
+  - [Multiple Object Tracking]
 
-- [Awesome AutoDL Libraies](#awesome-autodl-libraies)
+    - [2021 Venues](#2021)
+    - [2020 Venues](#2020)
+    - [2019 Venues](#2019)
+    - [2018 Venues](#2018)
+    - [Previous Venues](#201x-2018)
+    - [arXiv](#arxiv)    
 
-- [Deep Learning-based NAS and HPO](#deep-learning-based-nas-and-hpo)
-  - [2020 Venues](#2020)
-  - [2019 Venues](#2019)
-  - [2018 Venues](#2018)
-  - [2017 Venues](#2017)
-  - [Previous Venues](#2012-2016)
-  - [arXiv](#arxiv)
+- [Awesome Tracking Libraies](#awesome-tracking-libraies)
 
 - [Awesome Surveys](#awesome-surveys)
 
-- [Awesome Researchers](#awesome-blogs)
+- [Awesome Researchers](#awesome-researchers)
