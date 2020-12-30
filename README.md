@@ -7,7 +7,7 @@ Please feel free to [pull requests](https://github.com/penghouwen/TrackingHub/pu
 ## Table of Contents
 
 - [Awesome Papers](#awesome-papers)
-  - [Single Object Tracking]
+  - [**Single Object Tracking**]
     - [2021 Venues](#2021)
     - [2020 Venues](#2020)
     - [2019 Venues](#2019)
@@ -15,7 +15,7 @@ Please feel free to [pull requests](https://github.com/penghouwen/TrackingHub/pu
     - [Previous Venues](#201x-2018)
     - [arXiv](#arxiv)
  
-  - [Multiple Object Tracking]
+  - [**Multiple Object Tracking**]
 
     - [2021 Venues](#2021)
     - [2020 Venues](#2020)
